@@ -1,0 +1,5 @@
+﻿  BracketCalculator.cpp
+e:\chase\basketball predictor\basketball predictor\basketball predictor\bracketcalculator.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\chase\basketball predictor\basketball predictor\basketball predictor\bracketcalculator.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Basketball Predictor.vcxproj -> E:\Chase\Basketball Predictor\Basketball Predictor\Debug\Basketball Predictor.exe
+  Basketball Predictor.vcxproj -> E:\Chase\Basketball Predictor\Basketball Predictor\Debug\Basketball Predictor.pdb (Partial PDB)
